@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1С_Программирование/С нуля до профи/Урок_01_01_01.md",
+                "file": "PHP/Books/Vasi;ev/PHP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1С_Программирование/С нуля до профи/Урок_01_01_01.md",
+                "file": "PHP/Books/Vasi;ev/PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1С_Программирование/С нуля до профи/Урок_01_01_01.md",
+                "file": "PHP/Books/Vasi;ev/PHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1С_Программирование/С нуля до профи/Урок_01_01_01.md"
+                "file": "PHP/Books/Vasi;ev/PHP.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   "active": "a211d094e0333f76",
   "lastOpenFiles": [
     "PHP/PHP.md",
+    "PHP/Books/Vasi;ev/PHP.md",
+    "PHP/Books/Vasi;ev",
+    "PHP/Books",
     "1С_Программирование/С нуля до профи/Урок_01_01_01.md",
     "1С_Программирование/С нуля до профи",
     "Без названия",
